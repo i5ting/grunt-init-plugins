@@ -15,6 +15,15 @@ grunt-init依赖
 安装npm模块：grunt-init
 
 	npm install -g grunt-init
+	
+## usages
+
+安装完依赖后，执行下面的shell，就可以把grunt-init支持的插件都通过git clone下来了
+
+
+	./install_grunt_init_plugins.sh 
+
+## 插件说明
 
 ### 创建一个包含QUnit单元测试的jQuery插件
 
